@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hulu/static/css/main.5fec75f5.css",
+    "main.js": "/hulu/static/js/main.a0490e8d.js",
+    "index.html": "/hulu/index.html",
+    "main.5fec75f5.css.map": "/hulu/static/css/main.5fec75f5.css.map",
+    "main.a0490e8d.js.map": "/hulu/static/js/main.a0490e8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fec75f5.css",
+    "static/js/main.a0490e8d.js"
+  ]
+}
